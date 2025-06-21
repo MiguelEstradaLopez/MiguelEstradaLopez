@@ -21,10 +21,14 @@ Actualmente me encuentro ampliando mis conocimientos en **Cloud Computing (Micro
 
 ---<p align="center">    <img src="https://komarev.com/ghpvc/?username=MIKI0w0&style=for-the-badge&color=blue" alt="Perfil de GitHub de MIKI0w0" />
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKI0w0&layout=compact&hide_title=true&theme=vue&hide=html,css" alt="Top Lenguajes de MIKI0w0" />
+---
 
-    <img src="https://github-readme-stats.vercel.app/api?username=MIKI0w0&show_icons=true&theme=vue&hide_title=true" alt="Estadísticas de GitHub de MIKI0w0" />
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MiguelEstradaLopez&style=for-the-badge&color=blue" alt="Perfil de GitHub de MiguelEstradaLopez" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelEstradaLopez&layout=compact&hide_title=true&theme=vue&hide=html,css,shell" alt="Top Lenguajes de MiguelEstradaLopez" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MiguelEstradaLopez&show_icons=true&theme=vue&hide_title=true&include_all_commits=true" alt="Estadísticas de GitHub de MiguelEstradaLopez" />
 </p>
+
+---
 
 ---_Activamente buscando nuevas oportunidades en desarrollo de software._
