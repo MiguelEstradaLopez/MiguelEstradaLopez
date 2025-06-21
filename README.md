@@ -24,15 +24,13 @@ Actualmente me encuentro ampliando mis conocimientos en **Cloud Computing (Micro
 ### 🌐 Conéctate Conmigo:
 
 * [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-estrada-l%C3%B3pez-721213224/)
-* [Correo Electrónico](mailto:maestralopez766@gmail.com)
-* [Mi Perfil de GitHub](https://github.com/MiguelEstradaLopez/) ---
+* [Correo Electrónico](mailto:maestralopez766@gmail.com) ---
 
 ### 💡 Proyectos Destacados:
 
 * **[Login-Mern](https://github.com/MIKI0w0/Login-Mern)** - CRUD de login y gestión de usuarios con MongoDB (MERN Stack).
 * **[ip-y-puertos](https://github.com/MIKI0w0/ip-y-puertos)** - Herramienta CLI en Python para mostrar IPs de red y escanear puertos.
 * **[AppFlutter](https://github.com/MIKI0w0/AppFlutter)** - Aplicación móvil multi-plataforma construida con Flutter, diseñada para la organización de torneos y eventos deportivos.
-* **[PetCare](https://github.com/MiguelEstradaLopez/PetCare)** - (Asegúrate de tener un README en este proyecto y una descripción aquí, como "Sistema de gestión para clínicas veterinarias en C#.") * **[CalculadoraPy](https://github.com/MIKI0w0/CalculadoraPy)** - (Añade una breve descripción, ej. "Aplicación de calculadora simple desarrollada en Python.")
 
 ---
 
