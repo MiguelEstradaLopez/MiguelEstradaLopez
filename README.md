@@ -10,14 +10,14 @@ Actualmente me encuentro ampliando mis conocimientos en **Cloud Computing (Micro
 
 ### 🚀 Mis Habilidades Principales:
 
-* **Lenguajes:** JavaScript, TypeScript, Python, C#, HTML5, CSS3
-* **Backend:** Node.js, Express.js
-* **Frontend:** React, Redux (si lo usas), Bootstrap
-* **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+* **Lenguajes de Programación:** JavaScript, TypeScript, Python, C#, Java (con Spring Boot), HTML5, CSS3, Dart (con Flutter)
+* **Desarrollo Backend:** Node.js, Express.js, Spring Boot (Java), RESTful APIs
+* **Desarrollo Frontend:** React, Flutter (Desarrollo Móvil), Bootstrap
+* **Bases de Datos:** MySQL, PostgreSQL, MongoDB, SQL/NoSQL Concepts
+* **Cloud & Plataformas:** Microsoft Azure (Básico), Firebase
 * **Control de Versiones:** Git, GitHub
-* **Cloud:** Microsoft Azure (Básico)
 * **Metodologías:** Scrum, Metodologías Ágiles
-* **Herramientas de Testing API:** Postman, Thunder Client
+* **Herramientas de Testing & Colaboración:** Postman, Thunder Client, Docker
 
 ---
 
